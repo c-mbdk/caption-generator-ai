@@ -3,7 +3,7 @@ This project was to practically apply my knowledge of langchain, LLMs and my lov
 
 When the application is run, it looks like this in the browser:
 
-[Screenshot of the Caption Generator App in the browswer](example_images/caption-generator-app.png)
+![Screenshot of the Caption Generator App in the browswer](example_images/caption-generator-app.png)
 
 ## How to run
 1. Install virtualenv:
