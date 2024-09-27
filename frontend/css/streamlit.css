@@ -1,0 +1,16 @@
+.st-emotion-cache-1fx03pq p {
+    color: #F0EDEE;
+}
+
+.stTooltipHoverTarget:hover {
+    background-color: #F0EDEE;
+    color: #07393C;
+}
+
+footer {
+    visibility: hidden;
+}
+
+#MainMenu {
+    visibility: hidden;
+}

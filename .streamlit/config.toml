@@ -1,0 +1,6 @@
+[theme]
+
+primaryColor = '#FF8C02' # Bright Orange
+backgroundColor = '#F0EDEE' # Anti-flash white
+secondaryBackgroundColor = '#07393C' # Caribbean Current
+font = "serif"
